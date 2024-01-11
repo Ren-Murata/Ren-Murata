@@ -204,10 +204,7 @@ aside p{
     h1{
         color: #0bd;
     }
-header.menu-content.wrapper {
-    display: flex;
-    justify-content: space-between;
-    }
+
 }
 /* モバイル版
 -------------------------------------- */
