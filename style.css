@@ -208,7 +208,7 @@ aside p{
     h1{
         color: #0bd;
     }
-header.menu-content.wrapper {
+header {
     display: flex;
     justify-content: space-between;
 }
