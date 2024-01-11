@@ -226,9 +226,10 @@ aside p{
         margin-top: 20px;
     }
     
-    .page-header {
-    flex-direction: column;
-    align-items: center;
+    
+    header.menu-content.wrapper {
+    display: flex;
+    justify-content: space-between;
     }
 
     /* NEWS */
