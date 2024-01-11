@@ -48,10 +48,7 @@ header{
     margin: 0 auto;
     padding: 0 4%;
 }
-header {
-    display: flex;
-    justify-content: space-between;
-}
+
 
 /* HOME
 ------------------------------ */
