@@ -39,14 +39,14 @@ img{
 .main-nav a:hover{
     color: #0bd;
 }
-header{
-    display: flex;
-    justify-content: space-between;
-}
 .wrapper{
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 4%;
+}
+header{
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -104,10 +104,6 @@ header{
 }
 #news .page-title{
     text-align: center;
-}
-header{
-    display: flex;
-    justify-content: space-between;
 }
 
 /* フッター
@@ -209,10 +205,7 @@ aside p{
     h1{
         color: #0bd;
     }
-header {
-    display: flex;
-    justify-content: space-between;
-}
+
 }
 /* モバイル版
 -------------------------------------- */
