@@ -39,7 +39,7 @@ img{
 .main-nav a:hover{
     color: #0bd;
 }
-header.menu-content.wrapper {
+header{
     display: flex;
     justify-content: space-between;
 }
@@ -104,7 +104,7 @@ header.menu-content.wrapper {
 #news .page-title{
     text-align: center;
 }
-header.menu-content.wrapper {
+header{
     display: flex;
     justify-content: space-between;
 }
