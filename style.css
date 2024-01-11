@@ -104,6 +104,10 @@ header.menu-content.wrapper {
 #news .page-title{
     text-align: center;
 }
+header.menu-content.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
 
 /* フッター
 -------------------------------------------------- */
