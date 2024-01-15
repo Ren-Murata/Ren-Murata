@@ -111,6 +111,7 @@ header{
 .nanikore{
     background-image: url(https://github.com/Ren-Murata/Ren-Murata/blob/main/menu-bg.jpg?raw=true);
     min-height: 100vh;
+    background-size: cover;
 }
 .menu-content {
         max-width: 560px;
