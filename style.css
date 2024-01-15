@@ -108,9 +108,9 @@ header{
 
 /* MENU
 -------------------------------------- */
-#menu {
+.big-bg{
     background-image: url(https://github.com/Ren-Murata/Ren-Murata/blob/main/menu-bg.jpg?raw=true);
-    min-height: 50vh;
+    min-height: 100vh;
 }
 .menu-content {
         max-width: 560px;
