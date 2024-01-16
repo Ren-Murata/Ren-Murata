@@ -147,6 +147,40 @@ img{
     background-image: url(https://github.com/Ren-Murata/Ren-Murata/blob/main/contact-bg.jpg?raw=true);
         min-height: 100vh;
 
+/* フォーム */
+form div {
+    margin-bottom
+}
+label {
+    font-size: 1.125rem;
+    margin-bottom: 10px;
+    display: block;
+}
+input[type="text"],
+inpuut[type="email"],
+textarea {
+    background: rgba(255,255,255,.5);
+    border: 1px #fff solid;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+}
+input[type="text"]
+input[type="email"]{
+    width: 100%;
+    max-width: 240px;
+}
+textarea {
+    width: 100%;
+    max-width: 480px;
+    height: 6rem;
+}
+input[type="subbmit"] {
+    border: none;
+    cursor: pointer;
+    line-height: 1;
+}
+
 /* フッター
 -------------------------------------------------- */
 footer{
@@ -298,4 +332,16 @@ aside p{
         height: auto;
     }
 
+    /* CONTACT */
+    #contact .page-title{
+        margin-top: 40px;
+    }
+
+    /* フォーム */
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        max-width: 100%;
+    }
+    
 }
