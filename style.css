@@ -198,7 +198,10 @@ input[type="subbmit"] {
 .location-map {
     width: 74%;
 }
-    
+/* iframe */
+iframe {
+    width: 100%;
+}
 
 /* フッター
 -------------------------------------------------- */
