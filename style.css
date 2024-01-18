@@ -203,6 +203,22 @@ iframe {
     width: 100%;
 }
 
+/* SNS */
+    #sns {
+        background: #FAF7FO;
+        padding: 4% 0;
+}
+#sns.wrapper {
+    display: flex:
+    justify-content: space-between;
+}
+#sns .sub-title {
+    margin-bottom: 30px;
+}
+.sns-box {
+    width: 30%;
+}
+
 /* フッター
 -------------------------------------------------- */
 footer{
